@@ -12,7 +12,6 @@ public class ImpPersonaService implements IPersonaService {
 
     @Autowired
     IPersonaRepository ipersonaRepository;
-    //Dependency injection
 
     @Override
     public List<Persona> getPersona() {
@@ -21,8 +20,8 @@ public class ImpPersonaService implements IPersonaService {
     }
 
     @Override
-    public Persona savePersona(Persona persona) {
-        return ipersonaRepository.save(persona);
+    public void savePersona(Persona persona) {
+        ipersonaRepository.save(persona);
     }
 
     @Override
@@ -35,5 +34,4 @@ public class ImpPersonaService implements IPersonaService {
         Persona persona = ipersonaRepository.findById(id).orElse(null);
         return persona;
     }
-
 }
