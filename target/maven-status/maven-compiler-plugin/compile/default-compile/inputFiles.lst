@@ -13,12 +13,16 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Dto\LoginUsuario.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SExperiencia.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Entity\UsuarioPrincipal.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Educacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Dto\NuevoUsuario.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\jwt\JwtProvider.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\DemoApplication.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoEducacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Controller\AuthController.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\PersonaController.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\MainSecurity.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SEducacion.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CEducacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Experiencia.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Service\UsuarioService.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Interface\IPersonaService.java
@@ -26,4 +30,5 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Persona.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\jwt\JwtEntryPoint.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Enums\RolNombre.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\REducacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Entity\Rol.java
