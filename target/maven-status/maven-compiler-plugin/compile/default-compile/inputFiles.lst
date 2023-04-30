@@ -29,8 +29,8 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CEducacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Experiencia.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Service\UsuarioService.java
-C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Interface\IPersonaService.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\IPersonaRepository.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoPersona.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SHyS.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Persona.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\jwt\JwtEntryPoint.java
