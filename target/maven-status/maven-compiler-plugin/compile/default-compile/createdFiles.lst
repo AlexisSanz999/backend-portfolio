@@ -4,6 +4,7 @@ com\portfolio\demo\Dto\dtoPersona.class
 com\portfolio\demo\Security\Service\UsuarioService.class
 com\portfolio\demo\Security\Service\UserDetailsImpl.class
 com\portfolio\demo\Security\Entity\UsuarioPrincipal.class
+com\portfolio\demo\Controller\CProyectos.class
 com\portfolio\demo\Dto\dtoExperiencia.class
 com\portfolio\demo\Service\SEducacion.class
 com\portfolio\demo\Security\Entity\Usuario.class
@@ -15,7 +16,10 @@ com\portfolio\demo\Repository\RHyS.class
 com\portfolio\demo\Security\Enums\RolNombre.class
 com\portfolio\demo\Repository\RExperiencia.class
 com\portfolio\demo\Security\Repository\iRolRepository.class
+com\portfolio\demo\Repository\RProyectos.class
 com\portfolio\demo\Service\SHyS.class
+com\portfolio\demo\Service\SProyectos.class
+com\portfolio\demo\Entity\Proyectos.class
 com\portfolio\demo\Dto\dtoEducacion.class
 com\portfolio\demo\Service\SExperiencia.class
 com\portfolio\demo\Security\Entity\Rol.class
@@ -26,6 +30,7 @@ com\portfolio\demo\Controller\CHyS.class
 com\portfolio\demo\Entity\Persona.class
 com\portfolio\demo\Controller\PersonaController.class
 com\portfolio\demo\Security\jwt\JwtTokenFilter.class
+com\portfolio\demo\Dto\dtoProyectos.class
 com\portfolio\demo\Dto\dtoHyS.class
 com\portfolio\demo\Security\Service\RolService.class
 com\portfolio\demo\Service\ImpPersonaService.class

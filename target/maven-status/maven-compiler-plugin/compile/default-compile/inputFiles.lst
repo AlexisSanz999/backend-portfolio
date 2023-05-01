@@ -3,15 +3,18 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Repository\iRolRepository.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\ImpPersonaService.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Dto\JwtDto.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoProyectos.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Entity\Usuario.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Repository\iUsuarioRepository.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\RExperiencia.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CProyectos.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\jwt\JwtTokenFilter.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CExperiencia.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Service\RolService.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\RHyS.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Controller\Mensaje.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Service\UserDetailsImpl.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Proyectos.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoHyS.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Dto\LoginUsuario.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SExperiencia.java
@@ -19,6 +22,7 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Educacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Dto\NuevoUsuario.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\jwt\JwtProvider.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\RProyectos.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\DemoApplication.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CHyS.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoEducacion.java
@@ -29,6 +33,7 @@ C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Controller\CEducacion.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Entity\Experiencia.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Security\Service\UsuarioService.java
+C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SProyectos.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Repository\IPersonaRepository.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Dto\dtoPersona.java
 C:\Users\Alexis Sanz\Desktop\backend-portfolio\src\main\java\com\portfolio\demo\Service\SHyS.java
